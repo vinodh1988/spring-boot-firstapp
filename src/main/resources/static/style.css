@@ -1,0 +1,13 @@
+h1{
+	background-color: yellow;
+	color: green;
+}
+
+#footer{
+	position: fixed;
+	bottom: 5px;
+	left: 30%;
+	font-family:comic sans MS;
+	color: blue;
+	font-size: 20px;
+}
